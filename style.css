@@ -12,19 +12,8 @@ ul li a{ text-decoration: none; color: rgb(160,31,36);}
 
 a:hover {
     color: black;
-  }
-
-.margin150 {
-    margin-top: 150px;
 }
 
-.bgWhite {
-    background-color: white;
-}
-
-.center {
-    text-align: center;
-}
 
 .pic-center {
     display: block;
@@ -55,20 +44,16 @@ a:hover {
     margin-right:7px;
     border-radius: 4px;
     text-align: center;
-    ;
 
 }
 
 
-.pic-transparency{
-    opacity: 0.5;
-}
 
-.marginTop80 {
-    margin-top: 80px;
-}
+h1 {color:rgb(160,31,36); 
+    font-family: sans-serif; 
+    font-size: 21px; 
+    text-align: center;}
 
-h1 {color:rgb(160,31,36); font-family: sans-serif; font-size: 21px; text-align: center;}
 h2 {text-align: center;  
     margin-top: 100px;
     margin-bottom: 100px;
